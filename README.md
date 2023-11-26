@@ -12,7 +12,7 @@ This script converts time from a 12-hour format to a 24-hour format. The input i
 
 Usage Example:
  ```
-python
+python3
  ```
 Copy code
  ```
@@ -28,7 +28,7 @@ This function determines whether exactly two out of three given integers are pos
 
 Usage Example:
  ```
-python
+python3
  ```
 Copy code
  ```
@@ -44,7 +44,7 @@ This program calculates the highest value of consonant substrings in a given str
 
 Usage Example:
  ```
-python
+python3
  ```
 Copy code
  ```
