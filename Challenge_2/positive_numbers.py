@@ -9,7 +9,6 @@ def two_positive_numbers(a, b, c):
 
 print(two_positive_numbers(8, 4, -3))  
 print(two_positive_numbers(-4, 3, 8))  
-print(two_positive_numbers(9, -6, 9))  
-print(two_positive_numbers(-4, 2, 0)) 
+
 
 # Path: Challenge_2/positive_numbers.py

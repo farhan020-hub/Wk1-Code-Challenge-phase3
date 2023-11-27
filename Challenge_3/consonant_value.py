@@ -13,3 +13,5 @@ def solve(s):
 
 print(solve("zodiacs")) 
 print(solve("strength"))  
+
+# Path: Challenge_3/consonant_value.py
