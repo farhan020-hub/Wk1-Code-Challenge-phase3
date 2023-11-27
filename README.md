@@ -80,7 +80,7 @@ python3 <script-name>.py
 
 
 ## Author & License
-**Author:** [Your Name]
+**Author:** [Saman Abdiaziz]
 
 **License:** This project is licensed under the MIT License - see the LICENSE file for details.
 
